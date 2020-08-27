@@ -1,6 +1,6 @@
 # Infinite-Latent-Feature-Models-and-the-Indian-Buffet-Process
 
-Author: Linlin Li & Bo Liu
+#### Author: Linlin Li & Bo Liu
 
 Project for STA663: Infinite Latent Feature Models and the Indian Buffet Process
 
