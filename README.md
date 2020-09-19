@@ -1,7 +1,9 @@
 # Infinite Latent Feature Models and the Indian Buffet Process
-
-#### Author: Bo Liu & Linlin Li
 (Project for STA663)
+
+#### Author: 
+- Bo Liu
+- Linlin Li
 
 This repository includes a module IBP which helps make inference on infinite latent feature models using the Indian Buffet Process. The algorithm was proposed by Thomas L. Griffiths and Zoubin Ghahramani. More information on this package can be referenced in `paper/FinalReport.pdf`.
 
